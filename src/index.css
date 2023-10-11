@@ -16,11 +16,16 @@ h2 {
   margin-bottom: 1rem;
 }
 
+#button-div{
+  display: inline block;
+}
+
 button {
   padding: 0.25rem 1rem;
   font-family: inherit;
   border: none;
   cursor: pointer;
+  margin-left: 3px;
 }
 
 button.primary {
@@ -51,6 +56,11 @@ main {
   padding: 0 1rem;
 }
 
+#del-btn{
+  background: red;
+  color: white
+}
+
 .new-plant-form {
   padding: 2rem 1rem;
   margin: 2rem 0;
@@ -77,6 +87,10 @@ main {
   flex-direction: column;
 }
 
+.searchbar label{
+  font-size: 26px;
+}
+
 label {
   font-weight: bold;
   display: block;
@@ -90,6 +104,22 @@ input {
   border-bottom: 2px solid gray;
   transition: all 0.2s;
   width: 100%;
+}
+
+#new-price {
+  width: 18%;
+  font-size: 14px;
+}
+.price-label{
+  display: inline-block;
+  font-size: inherit;
+}
+#update-btn {
+  background: greenyellow;
+  font-size: 14px;
+}
+#edit-price-btn {
+  background: greenyellow;
 }
 
 input:focus {

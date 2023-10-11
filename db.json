@@ -63,14 +63,8 @@
     {
       "name": "Spider Plant",
       "image": "https://www.beardsanddaisies.co.uk/cdn/shop/products/Beards-Daises-27.9.220111copy.jpg?v=1664959425",
-      "price": "7",
+      "price": "10",
       "id": 11
-    },
-    {
-      "name": "Philodendron Brasil",
-      "image": "https://theplantladysf.com/cdn/shop/products/IMG_1992.jpg?v=1641628600",
-      "price": "4.50",
-      "id": 12
     }
   ]
 }
