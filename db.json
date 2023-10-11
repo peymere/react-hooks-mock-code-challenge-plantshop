@@ -41,6 +41,36 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Venus Flytrap",
+      "image": "https://www.verdantlyfe.com/cdn/shop/products/front-venus-fly-trap-red.jpg?v=1663106026",
+      "price": "15",
+      "id": 8
+    },
+    {
+      "name": "Zebra Plant",
+      "image": "https://www.squarely-copenhagen.com/cdn/shop/products/Botanica-Aphelandra-_Zebra-Plant_1200x.jpg?v=1664530726",
+      "price": "30.00",
+      "id": 9
+    },
+    {
+      "name": "Bird of Paradise",
+      "image": "https://greeneryunlimited.co/cdn/shop/products/Wythe-40-2970.040-WH_Bird-of-Paradise-14.jpg?v=1618949230",
+      "price": "18",
+      "id": 10
+    },
+    {
+      "name": "Spider Plant",
+      "image": "https://www.beardsanddaisies.co.uk/cdn/shop/products/Beards-Daises-27.9.220111copy.jpg?v=1664959425",
+      "price": "7",
+      "id": 11
+    },
+    {
+      "name": "Philodendron Brasil",
+      "image": "https://theplantladysf.com/cdn/shop/products/IMG_1992.jpg?v=1641628600",
+      "price": "4.50",
+      "id": 12
     }
   ]
 }
